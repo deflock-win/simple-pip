@@ -4,7 +4,7 @@ Portable single-exe Picture-in-Picture for Windows
 
 ---
 
-![Simple PiP](./assets/screenshot.webp)
+![Simple PiP](./assets/screenshot.jpg)
 
 ---
 
